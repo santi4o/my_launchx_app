@@ -11,5 +11,8 @@
     "url": "my-launchx-app"
   },
   "author": "aldo s",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
 }
